@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Daria 👋  
 
-<!--
-**DariaKozlova-web/DariaKozlova-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Frontend & Full-Stack Web Developer  
+💻 JavaScript | React | Node.js | HTML | CSS | TypeScript
+📍 Germany  
 
-Here are some ideas to get you started:
+I am a career changer with an engineering background and a strong analytical mindset.  
+After completing intensive training in web development, I focus on building clean, user-friendly, and reliable web applications.  
+I enjoy learning new technologies, solving problems, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- JavaScript (ES6+)
+- TypeScript
+- React
+- HTML5 & CSS3
+- Node.js & Express
+- MongoDB
+- REST APIs
+- Git & GitHub
+
+---
+
+### 🚀 Featured Projects
+🔹 **Weather App (React)**  
+Responsive application with API integration and dynamic UI  
+👉 Repository | Live Demo
+
+🔹 **ToDo App (Full-Stack)**  
+CRUD application with REST API and backend logic  
+👉 Repository | Live Demo
+
+🔹 **Portfolio Website**  
+Personal portfolio showcasing projects and skills  
+👉 Repository | Live Demo
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/daria-kozlova  
+- Email: kozloffa.daria@gmail.com
